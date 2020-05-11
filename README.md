@@ -1,4 +1,4 @@
-# aAlgorithms and Data Structure
+# Algorithms and Data Structure
 A collection of various algorithms and Data Structures in c++
 
 **Dynamic Programming**
