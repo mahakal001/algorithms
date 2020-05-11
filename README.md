@@ -22,4 +22,5 @@ A collection of various algorithms in c++
 2. ["Max priority Queue"](https://github.com/mahakal001/algorithms/blob/master/Heap_Sort/max_prior_q.cpp)
 
 **Disjoint Set Data structure**
-["Disjoint Set Data structure"](https://github.com/mahakal001/algorithms/tree/master/disjoin_set_dataStructure)
+
+1. ["Disjoint Set Data structure"](https://github.com/mahakal001/algorithms/tree/master/disjoin_set_dataStructure)
