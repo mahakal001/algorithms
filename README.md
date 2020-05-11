@@ -1,5 +1,5 @@
-# algorithms
-A collection of various algorithms in c++
+# aAlgorithms and Data Structure
+A collection of various algorithms and Data Structures in c++
 
 **Dynamic Programming**
 1. [*0-1 KnapSack*](https://github.com/mahakal001/algorithms/tree/master/DP/01_knapSack)
