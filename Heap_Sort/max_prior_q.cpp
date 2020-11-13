@@ -27,7 +27,7 @@ void heap_increase_key(std::vector<int>& heap,int index,int key){
         if( key < heap.at(index))
             throw std::runtime_error{"new key is smaller than the current key"};
         heap.at(index) = key;
-        while( index > 1 && heap.at(parent(index)) < heap.at(index) ){
+        while( index > 0 && heap.at(parent(index)) < heap.at(index) ){
             std::swap(heap[parent(index)],heap[index]);
             index = parent(index);
         }
